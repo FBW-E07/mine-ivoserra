@@ -39,6 +39,7 @@ Cities are challenging places, for example, users can challenge other users for 
 
 For this project I have developed 2 classes , one of the classes needs to assign into the other class methods.
 In every every assignment there is a automatic message on the node Terminal , where one can read the story and directions. 
+By passing each condition the class designed as space inserts data properties with values in the user. 
 
 ## Initial game structure 
 <img src="./USERproject/userFirst.png">
