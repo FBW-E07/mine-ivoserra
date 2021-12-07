@@ -49,7 +49,7 @@ Cities are challenging places, for example, users can challenge other users for 
 <br></br>
 # Inventure APP
 
-### Inventure is an APP that wants to gather and track data of a weekly reports: Evaluates it and makes requests or 'buy' what is missing from other services. 
+### Inventure is an APP that wants to gather and track data of a weekly reports: Evaluates it and makes requests to 'buy' what is missing to other services. 
 
 
 first list topics: 
