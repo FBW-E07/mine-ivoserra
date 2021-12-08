@@ -14,11 +14,10 @@ If you want to see more about this project:
 [Ivo Serra github repository](https://github.com/ivoserra/javaProject).
 
 ## the story
-User or Castle is a story game where the consumer takes decisions through multiple choices developing different outcomes or dramaturgies. The goal of this game is that the user is able to return to the castle and can sum up all what he could gather from is adventures. If the sum is higher then expected the user will have access to the throne room and clammed as a hero within a multitude of heros of the Castle.
+User or Castle is a story game where the consumer takes decisions through multiple choices developing different outcomes or dramaturgies. The goal of this game is that the user is able to return to the castle and can sum up all what he could gather from is adventures. If the sum is higher then expected the user will have access to the throne room and claim as hero within a multitude of heros of the Castle.
 
 
 <br>
-
 ## Castle 
 <img src ="./USERproject/castle.webp">
 <br></br>
@@ -29,14 +28,12 @@ In the castle the user has to go through several rooms, each room has conditions
 ## Cities
 <img src="./USERproject/cities.jpg">
 <br></br>
-
 Cities are locations on a Multi-diverse universe.
 To be able to arrive to each city the user must have an avatar and hide is true-identity. The castle  should never be revealed to no one.
 Cities are challenging places, for example, users can challenge other users for whatever challenge might be designed by its location within the city. In every location the User can get more properties and points but he can also loose them even being deported from the city or erased from the story.
 
 <br></br>
 ## the code-story
-
 For this project I have developed 2 classes , one of the classes needs to assign into the other class methods.
 In every every assignment there is a automatic message on the node Terminal , where one can read the story and directions. 
 By passing each condition the class designed as space inserts data properties with values in the user. 
